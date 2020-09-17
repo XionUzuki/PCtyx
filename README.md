@@ -12,5 +12,5 @@ Go to the **Releases** tab, then download the latest version matching your platf
 
 Unless stated as fixed, due to file permissions differ between each platform, OSX and Linux versions in the releases are broken and require to do the following steps included in the **README.txt** file once in order to have them run properly. As of 210 version onward, OSX version is already fixed and does not require workaround.
 
-## Open Source Project
-TBA
+## Open Project
+Coming soon in open-project branch
